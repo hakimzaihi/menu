@@ -15761,24 +15761,6 @@ img {
 		border: 1px solid #eee !important
 	}
 }
-@media only screen and (max-width: 767px) {
-	.member-card .s-profile {
-		text-align: center
-	}
-	.profile_state li {
-		border-bottom: 1px solid #eee
-	}
-	.profile_state li:last-child {
-		border: none
-	}
-	.card-group .card+.card {
-		border-left: none
-	}
-	.chat-wrapper {
-		right: 30px;
-		width: 310px
-	}
-}
 @keyframes fadeIn {
 	to {
 		opacity: 1
@@ -15889,14 +15871,6 @@ img {
 	}
 	.profile-page .nav-tabs .nav-item {
 		display: inline-block
-	}
-}
-@media only screen and (max-width: 767px) {
-	.profile-page .profile-header {
-		text-align: center
-	}
-	.profile-page .profile-header .profile-image {
-		margin-bottom: 15px
 	}
 }
 .sprice .sprice-circle {
